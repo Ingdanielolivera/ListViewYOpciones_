@@ -5,7 +5,5 @@ package com.example.android.listviewyopciones;
  */
 
 public class Datos {
-    String casa;
-
 
 }

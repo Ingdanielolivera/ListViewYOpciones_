@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">ListViewYOpciones</string>
+    <string name="registrar">Registrar</string>
+    <string name="listar">Listar</string>
+    <string name="titulo">REGISTRO</string>
+    <string name="nombre">Nombre</string>
+    <string name="sexo">Sexo</string>
+    <string name="masculino">Masculino</string>
+    <string name="femenino">Femenino</string>
+    <string name="pasatiempos">Pasa tiempos</string>
+    <string name="leer">Leer</string>
+    <string name="jugar">Jugar</string>
+    <string name="programar">Programar</string>
+    <string name="borrar">Borrar</string>
+    <string name="no">No.</string>
+    <string-array name="opciones">
+        <item>@string/registrar</item>
+        <item>@string/listar</item>
+    </string-array>
+</resources>
